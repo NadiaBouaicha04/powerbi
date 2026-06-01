@@ -5,3 +5,13 @@ Côté Inventory — le besoin était de maîtriser les niveaux de stock par ent
 Côté Sales — l'objectif était d'analyser les performances par distributeur et par ville (Tunis, Sfax, Sousse), et mesurer l'impact des ingrédients bio sur les ventes — ce qui montre une dimension RSE forte.
 
 <img width="2526" height="1379" alt="Capture d&#39;écran 2026-06-01 205847" src="https://github.com/user-attachments/assets/3b5d8353-e295-46a6-93c2-b92f945634e9" />
+
+<img width="2487" height="1406" alt="Capture d&#39;écran 2026-06-01 210001" src="https://github.com/user-attachments/assets/48e2de7b-6e51-4c4a-bc82-d64e7ac565ec" />
+
+<img width="2504" height="1406" alt="Capture d&#39;écran 2026-06-01 210043" src="https://github.com/user-attachments/assets/6c6e1ab4-537c-45df-849a-a194ecd8af7b" />
+
+<img width="2488" height="1410" alt="Capture d&#39;écran 2026-06-01 205918" src="https://github.com/user-attachments/assets/f0d04a72-5eb6-4e24-944a-4908c582a5ef" />
+
+<img width="2507" height="1415" alt="Capture d&#39;écran 2026-06-01 205942" src="https://github.com/user-attachments/assets/7a5ce2f8-f24f-4e45-8682-e7754f325887" />
+
+<img width="2522" height="1415" alt="Capture d&#39;écran 2026-06-01 210017" src="https://github.com/user-attachments/assets/abc6e5ce-e14b-446e-9311-67a75aac97dc" />
