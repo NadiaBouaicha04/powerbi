@@ -19,6 +19,4 @@ L'objectif était d'analyser les performances par distributeur et par ville (Tun
 
 <img width="2488" height="1410" alt="Capture d&#39;écran 2026-06-01 205918" src="https://github.com/user-attachments/assets/f0d04a72-5eb6-4e24-944a-4908c582a5ef" />
 
-<img width="2507" height="1415" alt="Capture d&#39;écran 2026-06-01 205942" src="https://github.com/user-attachments/assets/7a5ce2f8-f24f-4e45-8682-e7754f325887" />
-
 <img width="2522" height="1415" alt="Capture d&#39;écran 2026-06-01 210017" src="https://github.com/user-attachments/assets/abc6e5ce-e14b-446e-9311-67a75aac97dc" />
